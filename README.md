@@ -1,5 +1,7 @@
 # UserNRolesBase
 Simple instructions based on Moss tutorial on how it was created up until this particular point
+If you use this repo, delete mdf in AppData if it exists in order to recreate the database based on our custom seed migrations
+
 Pending:
 1) Add Models
 2) Create Role Management Class
